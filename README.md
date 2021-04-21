@@ -37,7 +37,7 @@
 
 <p><h4><b>Warning:</b> We do not accept any responsibility for damage or theft of information by users by you </h4></p>
 <hr>
-<h2>Operating Systems Tested</h2>
+Operating Systems Tested
 
 - Kali Linux 2020
 - WSL (Install Windows Subsystem for Linux)
