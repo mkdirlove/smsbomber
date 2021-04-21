@@ -3,11 +3,11 @@ Unlimited SMS sending system and written with Python!
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/ultrasecurity/Storm-Breaker"><img src="https://raw.githubusercontent.com/ehsangoli/Location-Hacking/main/demo.png" alt="Location-Hacking"></a>
+  <a href="https://github.com/ultrasecurity/Storm-Breaker"><img src="https://raw.githubusercontent.com/ehsangoli/smsbomber/main/demo.png" alt="Location-Hacking"></a>
 
 </h1>
 
-<h4 align="center">A tool for obtaining location information...</h4>
+<h4 align="center">Unlimited SMS sending system and written with Python!</h4>
 
 <p align="center">
   <a href="http://python.org">
