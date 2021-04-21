@@ -23,43 +23,17 @@
 
 ![save demo](https://raw.githubusercontent.com/ehsangoli/smsbomber/main/demos.png)
 
-<h1>PreView</h1>
-<pre>
-                 .-~*~--,.   .-.
-          .-~-. ./OOOOOOOOO\.'OOO`9~~-.
-        .`OOOOOO.OOM.OLSONOOOOO@@OOOOOO\
-       /OOOO@@@OO@@@OO@@@OOO@@@@@@@@OOOO`.
-       |OO@@@WWWW@@@@OOWWW@WWWW@@@@@@@OOOO).
-     .-'OO@@@@WW@@@W@WWWWWWWWOOWW@@@@@OOOOOO}
-    /OOO@@O@@@@W@@@@@OOWWWWWOOWOO@@@OOO@@@OO|
-   lOOO@@@OO@@@WWWWWWW\OWWWO\WWWOOOOOO@@@O.'
-    \OOO@@@OOO@@@@@@OOW\     \WWWW@@@@@@@O'.
-     `,OO@@@OOOOOOOOOOWW\     \WWWW@@@@@@OOO)
-      \,O@@@@@OOOOOOWWWWW\     \WW@@@@@OOOO.'
-        `~c~8~@@@@WWW@@W\       \WOO|\UO-~'
-             (OWWWWWW@/\W\    ___\WO)
-               `~-~''     \   \WW=*'
-                         __\   \
-        SMSBomber        \      \
-                          \    __\
-                           \  \
-  https://mihanconsole.ir   \ \
-  https://t.me/ehsan_goli    \ \
-                              \\
-                               \\
-                                \
-                                 \
 
-    1) Singel PHONE Number   2) Combo
-
-SMSbomber/Home/$
-</pre>
 ### Tool sections:
 
 - Singel PHONE Number
 - Combo
 
-<h5></h
+<h5>Singel PHONE Number</h5>
+<p>In this section, only one number is targeted and the tool tries to send an unlimited number of text messages.</p>
+<h5>Combo</h5>
+<p>In this section, a list of numbers will be taken from you and whenever the first number is blocked, it will go to the next phone number to release the numbers.</p>
+<hr>
 
 <p><h4><b>Warning:</b> We do not accept any responsibility for damage or theft of information by users by you </h4></p>
 
@@ -99,3 +73,34 @@ $ cd smsbomber
 $ python -m pip install -r requirments.txt
 $ python smsbomber.py
 ```
+<h1>PreView</h1>
+<pre>
+                 .-~*~--,.   .-.
+          .-~-. ./OOOOOOOOO\.'OOO`9~~-.
+        .`OOOOOO.OOM.OLSONOOOOO@@OOOOOO\
+       /OOOO@@@OO@@@OO@@@OOO@@@@@@@@OOOO`.
+       |OO@@@WWWW@@@@OOWWW@WWWW@@@@@@@OOOO).
+     .-'OO@@@@WW@@@W@WWWWWWWWOOWW@@@@@OOOOOO}
+    /OOO@@O@@@@W@@@@@OOWWWWWOOWOO@@@OOO@@@OO|
+   lOOO@@@OO@@@WWWWWWW\OWWWO\WWWOOOOOO@@@O.'
+    \OOO@@@OOO@@@@@@OOW\     \WWWW@@@@@@@O'.
+     `,OO@@@OOOOOOOOOOWW\     \WWWW@@@@@@OOO)
+      \,O@@@@@OOOOOOWWWWW\     \WW@@@@@OOOO.'
+        `~c~8~@@@@WWW@@W\       \WOO|\UO-~'
+             (OWWWWWW@/\W\    ___\WO)
+               `~-~''     \   \WW=*'
+                         __\   \
+        SMSBomber        \      \
+                          \    __\
+                           \  \
+  https://mihanconsole.ir   \ \
+  https://t.me/ehsan_goli    \ \
+                              \\
+                               \\
+                                \
+                                 \
+
+    1) Singel PHONE Number   2) Combo
+
+SMSbomber/Home/$
+</pre>
