@@ -21,7 +21,7 @@
   </a>
 </p>
 
-![save demo](http://dl.sabzlearn.ir/demo/storm/loc-demo.PNG)
+![save demo](https://raw.githubusercontent.com/ehsangoli/smsbomber/main/demos.png)
 
 ### Template:
 
