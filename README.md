@@ -36,7 +36,7 @@
 <hr>
 
 <p><h4><b>Warning:</b> We do not accept any responsibility for damage or theft of information by users by you </h4></p>
-
+<hr>
 ### Operating Systems Tested
 
 - Kali Linux 2020
@@ -73,6 +73,7 @@ $ cd smsbomber
 $ python -m pip install -r requirments.txt
 $ python smsbomber.py
 ```
+<hr>
 <h1>PreView</h1>
 <pre>
                  .-~*~--,.   .-.
